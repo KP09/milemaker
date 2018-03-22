@@ -17,6 +17,8 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 
+gem 'material_design_lite-sass'
+
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
